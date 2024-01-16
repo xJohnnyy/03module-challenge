@@ -7,6 +7,7 @@ In this module challenge, we added Javascript to a static wesbite to create a Pa
 ## Usage
 
 URL of the deployed webpage: 
+https://xjohnnyy.github.io/03module-challenge/
 
 
 ## Credits
